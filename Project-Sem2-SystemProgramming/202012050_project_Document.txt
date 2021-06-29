@@ -1,0 +1,14 @@
+Name: Harsh Veliyat
+ID: 202012050
+Project Title: School Record Management
+
+Goal of the Project:
+	--> My purpose behind making this project was to reflect the knowledge I gained through this semester. 
+	--> I have implemented a system which helps in storing records of student.
+	--> I have used concepts like File handling, Signal handling and used a makefile.
+
+Requirements:
+	--> To understand my project one needs the knowledge about C programming, file handling in C, Sginal, and using a makefile.
+
+Assumptions:
+	--> Assumed that the system is required to store basic information like student's id, name, section, marks and grade. (Ofcourse many more functionalities can be added in similar ways) 
